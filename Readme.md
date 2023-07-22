@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RitabrataMandal
-- 👀 I’m interested in .Maths & App Development ..
+- 👀 I’m interested in .Maths &  ..
 - 🌱 I’m currently learning ..Electrical Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
