@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RitabrataMandal
-- 👀 I’m interested in .Maths &  ..
+- 👀 I’m interested in .Maths, Power Electronics, Control Theory, Motor Drives, Electrical Machines, Signal Processing.
 - 🌱 I’m currently learning ..Electrical Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on research Projects.
 - 📫 How to reach me ...
 
 <!---
